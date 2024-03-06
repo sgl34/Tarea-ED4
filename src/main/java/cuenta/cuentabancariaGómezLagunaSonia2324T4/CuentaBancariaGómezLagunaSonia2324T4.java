@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package cuenta.cuentabancariaxxx2324t4;
+package cuenta.cuentabancariaGómezLagunaSonia2324T4;
 
 /**
  *

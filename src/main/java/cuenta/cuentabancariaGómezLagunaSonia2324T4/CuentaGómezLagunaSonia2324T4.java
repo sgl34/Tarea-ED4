@@ -2,10 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package cuenta.cuentabancariaxxx2324t4;
+package cuenta.cuentabancariaGómezLagunaSonia2324T4;
 
-/**
- *
+
+
+ /**
+ * 
  * @author ASUS
  */
 
@@ -113,7 +115,11 @@ public class CuentaGómezLagunaSonia2324T4 {
         setSaldo(getSaldo() + cantidad);
     }
 
-    
+    /**
+     *
+     * @param cantidad
+     * @throws Exception
+     */
     public void retirar (double cantidad) throws Exception
     {
         if (cantidad <= 0)
